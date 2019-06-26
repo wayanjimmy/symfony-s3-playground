@@ -1,0 +1,7 @@
+index:
+    path: /
+    controller: App\Controller\TaskController::new
+
+rename:
+    path: /rename
+    controller: App\Controller\TaskController::rename
